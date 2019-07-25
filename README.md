@@ -6,7 +6,7 @@ L'script "SlamScript" utilitza totes les funcions proporcionades per a tal de re
 
 Imatge proporcionada:
 
-<img src="images/1.jpg" width="500">
+<img src="images/1.JPG" width="500">
 
 
 Solució aconseguida:
