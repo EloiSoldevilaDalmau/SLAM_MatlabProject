@@ -36,6 +36,8 @@ Mesura: [1.7; -35*pi/180], Covariance: diag([1.5e-2, (10*pi/180)*2])
 
 ## Solució millorada:
 
+script "SlamScriptv2"
+
 <img src="images/Sol2.jpg" width="700">
 
 
