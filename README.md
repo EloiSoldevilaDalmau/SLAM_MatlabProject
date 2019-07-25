@@ -11,9 +11,11 @@ Imatge proporcionada:
 
 Solució aconseguida:
 
-<img src="images/Sol.jpg" width="500">
+<img src="images/Sol.jpg" width="700">
 
 
 Proposta de millora:
 
 Solució millorada:
+
+<img src="images/Sol2.jpg" width="700">
