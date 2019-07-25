@@ -7,6 +7,7 @@ L'script "SlamScript" utilitza totes les funcions proporcionades per a tal de re
 Imatge proporcionada:
 
 Solució aconseguida:
+<img src="images/sol.fig" width="500">
 
 Proposta de millora:
 
