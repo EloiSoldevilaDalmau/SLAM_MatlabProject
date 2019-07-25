@@ -8,7 +8,7 @@ Imatge proporcionada:
 
 Solució aconseguida:
 
-<img src="images/Sol.fig" width="500">
+<img src="images/Sol.jpg" width="500">
 
 
 Proposta de millora:
